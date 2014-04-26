@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=ProcessorBoard_STM32F103C.SchDoc
+Record=HARD_PROCESSOR_COMPONENT|BaseComponentDesignator=U1|DocumentName=ProcessorBoard_STM32F103C.SchDoc|LibraryReference=STM32F103CB|SubProjectPath= |Configuration= |Description=General purpose 32-bit microcontroller|NexusDeviceId=STM32F103CB|SubPartUniqueId1=XCFBJVRD|SubPartDocPath1=ProcessorBoard_STM32F103C.SchDoc
