@@ -1,4 +1,4 @@
-Welcome to the BRICKS project.
+Welcome to the BRICKS project
 
 This project contains a set of PCBs that can be used for fast hardware and firmware prototyping. It contains a processor board and a number of peripheral boards. All boards can be stacked to establish a prototype PCB for the target device configuration.
 
