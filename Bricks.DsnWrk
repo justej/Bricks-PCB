@@ -22,3 +22,5 @@ ProjectPath=IndicationBoard.PrjPcb
 ProjectPath=InputBoard_Analog+Digital.PrjPcb
 [Project11]
 ProjectPath=OutputBoard_PWM+Digital.PrjPcb
+[Project12]
+ProjectPath=MotorControlBoard_A4988.PrjPcb
