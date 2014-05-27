@@ -71,6 +71,10 @@ GenerateClassCluster=0
 DocumentPath=Project Outputs for ProcessorBoard_STM32F103C\Design Rule Check - ProcessorBoard_STM32F103C.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ProcessorBoard_STM32F103C\Footprint Comparison - ProcessorBoard_STM32F103C.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
