@@ -35,6 +35,38 @@ LogFolderPath=
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Document1]
+DocumentPath=OrientationBoard_LIS303_LIS2DM_L3GD20.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document2]
+DocumentPath=OrientationBoard_LIS303_LIS2DM_L3GD20.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -920,7 +952,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
+SortOrder=1
 SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1
@@ -941,6 +973,60 @@ NetClassManualEnabled=1
 [LibraryUpdateOptions]
 SelectedOnly=0
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Library.DbLib/Capacitors$
+ComponentDesignItemID0=CAP0402
+ComponentSymbolReference0=Capacitor
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Library.DbLib/Capacitors$
+ComponentDesignItemID1=CAP0603
+ComponentSymbolReference1=Capacitor
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Library.DbLib/Capacitors$
+ComponentDesignItemID2=TAJC
+ComponentSymbolReference2=Polar capacitor
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Library.DbLib/ICs$
+ComponentDesignItemID3=L3GD20
+ComponentSymbolReference3=L3GD20
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Library.DbLib/ICs$
+ComponentDesignItemID4=LIS2DM
+ComponentSymbolReference4=LIS2D
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Library.DbLib/ICs$
+ComponentDesignItemID5=LIS331DLH
+ComponentSymbolReference5=LIS331
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Library.DbLib/ICs$
+ComponentDesignItemID6=LSM303D
+ComponentSymbolReference6=LSM303D
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Library.DbLib/Mechanical$
+ComponentDesignItemID7=PBDM-8
+ComponentSymbolReference7=8-pin dual row connector
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Library.DbLib/Resistors$
+ComponentDesignItemID8=RES0402
+ComponentSymbolReference8=Resistor
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -953,6 +1039,54 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Author
+ParameterUpdate0=1
+ParameterName1=Category
+ParameterUpdate1=1
+ParameterName2=Comment
+ParameterUpdate2=1
+ParameterName3=Component Kind
+ParameterUpdate3=1
+ParameterName4=ComponentLink1Description
+ParameterUpdate4=1
+ParameterName5=ComponentLink1URL
+ParameterUpdate5=1
+ParameterName6=Description
+ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=PartNumber
+ParameterUpdate8=1
+ParameterName9=Value
+ParameterUpdate9=1
+ParameterName10=Voltage
+ParameterUpdate10=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=CAP0402
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=CAP0603
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=LGA14(2x2x1)
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=LGA16(3x3x1)
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=LGA16(4x4x1)
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=PBDM-8
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=RES0402
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=SMC
+ModelUpdate7=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -965,4 +1099,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 

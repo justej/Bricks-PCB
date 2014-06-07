@@ -15,7 +15,7 @@ ProjectPath=MemoryBoard_AT25DFxxx.PrjPcb
 [Project7]
 ProjectPath=MotorControlBoard_A4988.PrjPcb
 [Project8]
-ProjectPath=AccelerometerBoard_LIS331DH.PrjPcb
+ProjectPath=OrientationBoard_LIS303_LIS2DM_L3GD20.PrjPcb
 [Project9]
 ProjectPath=EthernetBoard_ENC624J600.PrjPcb
 [Project10]
