@@ -17,10 +17,10 @@ ProjectPath=MotorControlBoard_A4988.PrjPcb
 [Project8]
 ProjectPath=OrientationBoard_LIS303_LIS2DM_L3GD20.PrjPcb
 [Project9]
-ProjectPath=EthernetBoard_ENC624J600.PrjPcb
-[Project10]
-ProjectPath=GPSBoard_EB570.PrjPcb
-[Project11]
 ProjectPath=InputBoard_Analog+Digital.PrjPcb
+[Project10]
+ProjectPath=EthernetBoard_ENC624J600.PrjPcb
+[Project11]
+ProjectPath=GPSBoard_EB570.PrjPcb
 [Project12]
 ProjectPath=OutputBoard_PWM+Digital.PrjPcb
