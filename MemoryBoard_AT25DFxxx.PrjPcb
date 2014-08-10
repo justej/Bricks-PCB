@@ -52,22 +52,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=MemoryBoard_AT25DFxxx.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document3]
 DocumentPath=MemoryBoard_AT25DFxxx.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -85,6 +69,10 @@ GenerateClassCluster=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MemoryBoard_AT25DFxxx\Design Rule Check - MemoryBoard_AT25DFxxx-SS.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for MemoryBoard_AT25DFxxx\Design Rule Check - MemoryBoard_AT25DFxxx.html
 DItemRevisionGUID=
 
 [Configuration1]
